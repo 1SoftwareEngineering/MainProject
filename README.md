@@ -3,7 +3,7 @@ An application that receptionists use for appointment management. This applicati
 
 Contributors:
 https://github.com/OsodracPT
-https://github.com/CDRomulus
+https://github.com/romulusc
 
 
 Credentials for log in:
